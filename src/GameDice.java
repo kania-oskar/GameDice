@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PIOGame {
+public class GameDice {
 
     public static void main(String[] args) {
 

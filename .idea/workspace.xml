@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2cb6444-592d-4864-a97f-a35b1b977d89" name="Default Changelist" comment="28.11.19">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PIOGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PIOGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIOGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GameDice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PIOGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameDice.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,16 +43,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="PIOGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PIOGame" />
-      <module name="PIOGame" />
+    <configuration name="GameDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameDice" />
+      <module name="GameDice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PIOGame" />
+        <item itemvalue="Application.GameDice" />
       </list>
     </recent_temporary>
   </component>
@@ -67,11 +68,33 @@
       <updated>1574365718079</updated>
       <workItem from="1574365721389" duration="2066000" />
       <workItem from="1574958108845" duration="5170000" />
+      <workItem from="1575454780450" duration="801000" />
+      <workItem from="1575456046270" duration="1173000" />
+      <workItem from="1575457987190" duration="189000" />
+      <workItem from="1575458219123" duration="45000" />
     </task>
+    <task id="LOCAL-00001" summary="28.11.19">
+      <created>1575454923732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575454923732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

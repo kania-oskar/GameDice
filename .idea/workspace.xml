@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2cb6444-592d-4864-a97f-a35b1b977d89" name="Default Changelist" comment="28.11.19">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIOGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GameDice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PIOGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameDice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +70,7 @@
       <workItem from="1575456046270" duration="1173000" />
       <workItem from="1575457987190" duration="189000" />
       <workItem from="1575458219123" duration="45000" />
+      <workItem from="1575466624541" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="28.11.19">
       <created>1575454923732</created>

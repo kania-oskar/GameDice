@@ -14,7 +14,7 @@ abstract public class Player {
             this.name = name;
         }
         else {
-            throw new IllegalArgumentException("Nieprawidłowe imię.");
+            throw new IllegalArgumentException("Nieprawidłowe imię!");
         }
     }
 

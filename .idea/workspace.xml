@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2cb6444-592d-4864-a97f-a35b1b977d89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f2cb6444-592d-4864-a97f-a35b1b977d89" name="Default Changelist" comment="28.11.19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PIOGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PIOGame.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574365718079</updated>
-      <workItem from="1574365721389" duration="1650000" />
+      <workItem from="1574365721389" duration="2066000" />
+      <workItem from="1574958108845" duration="5170000" />
     </task>
     <servers />
   </component>
@@ -76,10 +78,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="28.11.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="28.11.19" />
   </component>
 </project>

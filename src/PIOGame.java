@@ -4,12 +4,24 @@ public class PIOGame {
 
     public static void main(String[] args) {
 
-        List <String> list = new ArrayList();
+        Game game = new Game();
 
-        list.add("raz");
-        list.add("dwa");
-        list.add("trzy");
+        game.addPlayer(new PlayerComp("Janusz"));
+        game.addPlayer(new PlayerComp("Janusz"));
+        game.printPlayers();
 
+//        game.removePlayer("Ziuta");
+//        game.printPlayers();
+
+//        game.play();
+
+
+//        List <String> list = new ArrayList();
+//
+//        list.add("raz");
+//        list.add("dwa");
+//        list.add("trzy");
+//
 //        System.out.println("_________________");
 //
 //        System.out.println(list.toString());
@@ -32,17 +44,11 @@ public class PIOGame {
 //        while(it.hasNext()){
 //            System.out.println(it.next());
 //        }
-
-        for (Iterator it = list.iterator(); it.hasNext(); ) {
-            System.out.println(it.next());
-        }
-
-
-//        Game game = new Game();
 //
-//        Player player = new PlayerComp();
-//        game.addPlayer(player);
-//
-//        game.play();
+//        for (Iterator it = list.iterator(); it.hasNext(); ) {
+//            System.out.println(it.next());
+//        }
+
+
     }
 }
